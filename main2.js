@@ -387,9 +387,18 @@ arr = [1, 2, 3, 4, 5]
 // let add = arr.map(addi);
 // console.log(add)
 
-let nams = "OmaR"
+// let nams = "OmaR"
 
-sw = nams.split("").map(function (ss) {
-    return ss === ss.toUpperCase() ? ss.toLowerCase() : ss.toUpperCase()
-}).join("");
-console.log(sw)
+// sw = nams.split("").map(function (ss) {
+//     return ss === ss.toUpperCase() ? ss.toLowerCase() : ss.toUpperCase()
+// }).join("");
+// console.log(sw);
+
+
+// let a = arr.map(function (b) {
+//     return -b
+// })
+// console.log(a)
+
+
+
